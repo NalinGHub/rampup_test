@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646933028366",
+    "project_id": "rampuptest",
+    "storage_bucket": "rampuptest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646933028366:android:0fb995d43bb2f0c789265f",
+        "android_client_info": {
+          "package_name": "com.example.workshop_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646933028366-c8okr3gfa6752296a6vv8ba41aadchvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe-1epVHpN-nyUKsH1fw98dAssJdfvBnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646933028366-c8okr3gfa6752296a6vv8ba41aadchvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
